@@ -12,3 +12,10 @@ Python
 Scikit-learn
 Pandas
 NumPy
+
+## Project Output
+
+![Output](output.png)
+## Project Output
+
+![Output](output1.png)
